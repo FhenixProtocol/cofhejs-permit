@@ -1,7 +1,7 @@
 {
-  "name": "cofhejs",
-  "version": "0.0.1-alpha.12",
-  "description": "The JavaScript SDK for Fhenix's CoFHE Service",
+  "name": "cofhejs-permit",
+  "version": "0.0.1-alpha.0",
+  "description": "cofhejs (but just the permit parts)",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
